@@ -1,0 +1,34 @@
+ARGUMENTS SUPPORTING BOOK AUTHORS' RIGHTS IN LLM TRAINING
+
+Copyright Protection is Fundamental
+Copyright law explicitly grants authors exclusive rights to their creative works, including reproduction, distribution, and derivative works. Training LLMs on copyrighted books without permission constitutes unauthorized reproduction and derivative use. These protections exist precisely to ensure creators maintain control over how their work is used and are fairly compensated.
+
+Economic Impact on Authors
+Authors depend on royalties and licensing fees as their primary source of income. When LLM companies use books to train AI without compensation, they deprive authors of potential licensing revenue. This threatens the economic sustainability of authorship as a profession. If authors cannot earn a living from their work, the quantity and quality of literature available to society will decline.
+
+Unauthorized Commercial Exploitation
+LLM companies are using authors' intellectual property to create highly profitable commercial products without permission or compensation. These companies derive billions in market value from systems trained on authors' creative output. This represents a clear case of commercial exploitation of copyrighted materials outside the bounds of fair use.
+
+Transformative Use Does Not Eliminate Need for Permission
+While LLMs may transform the original works in their outputs, the training process itself involves wholesale copying of protected works. The fact that the end product is "transformative" does not eliminate the need for permission to use the original works in training. Courts have consistently held that commercial entities must seek permission and provide compensation for such uses.
+
+Bulk Copying Exceeds Fair Use
+LLM training involves copying entire books, not just excerpts or quotations. Such wholesale copying exceeds the boundaries of fair use, which typically permits limited copying for specific purposes like criticism, commentary, or education. The systematic copying of millions of books goes far beyond what fair use doctrine was intended to permit.
+
+Authors Lack Opt-Out Mechanisms
+Many LLM companies have trained their models on books without providing authors any mechanism to opt out or even know if their works were used. This lack of transparency and consent violates authors' rights to control how their intellectual property is used.
+
+Precedent from Other Media Industries
+Other media industries like music, film, and photography require licenses for AI training data. Book authors deserve the same protections and compensation structures that exist in other creative industries. The principle that creators should be compensated for the use of their work should apply consistently across all media types.
+
+Risk of Creative Devaluation
+If LLMs can generate content that mimics or borrows heavily from authors' distinctive styles and approaches without compensation, it devalues the uniqueness of human creativity. Authors' distinctive voices represent intellectual property developed through years of work, and this property is appropriated when used to train AI systems.
+
+Literary Works Are Not Public Domain Data
+Unlike factual information or public domain resources, literary works represent original creative expressions specifically protected by copyright law. The notion that all text on the internet or in published books should be freely available for commercial AI training fundamentally misunderstands the purpose of copyright protection.
+
+Proposed Solution: Licensing Framework
+A structured licensing framework should be established where LLM companies pay reasonable licensing fees to authors whose works are used in training. This could be managed through collective licensing organizations, similar to how music performance rights are handled. This approach balances innovation with fair compensation to creators.
+
+Moral Rights of Authors
+Many countries recognize authors' moral rights to their work, including the right to attribution and the right to protect the integrity of their work. Training LLMs on authors' works without permission may violate these moral rights by enabling the generation of derivative content that could misrepresent or dilute the author's original expression and intent. 

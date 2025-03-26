@@ -1,0 +1,37 @@
+ARGUMENTS SUPPORTING LLM COMPANIES' FAIR USE OF PUBLISHED WORKS
+
+Fair Use Doctrine Applies to LLM Training
+Training LLMs on published works constitutes fair use under copyright law. The four-factor test for fair use strongly favors LLM training: (1) the purpose is transformative, creating new capabilities rather than reproducing works; (2) while creative works receive strong protection, LLMs use diverse materials; (3) models may ingest entire works but don't replicate them wholesale; and (4) LLMs don't substitute for the original works in the market.
+
+Transformative Use and Innovation
+LLM training represents a highly transformative use of text. The models don't memorize or reproduce books verbatim but learn patterns, concepts, and linguistic structures. This transformative nature creates entirely new capabilities and applications that don't compete with or replace the original works. Courts have consistently held that highly transformative uses weigh heavily in favor of fair use.
+
+No Market Substitution
+LLMs do not serve as market substitutes for the original books. No consumer would use an LLM instead of purchasing or reading a specific book. The original market for authors' works remains intact, as LLMs cannot reproduce entire books coherently or replace the experience of reading an author's work. Without market harm, a key element of copyright infringement is absent.
+
+Advancement of Knowledge and Public Benefit
+LLM development significantly advances artificial intelligence research and provides substantial public benefits. These systems enable accessibility tools, educational supports, creative assistants, and research aids that benefit society broadly. Copyright law is designed to "promote the progress of science and useful arts," and LLMs clearly serve this constitutional purpose.
+
+Impracticality of Licensing Framework
+The scale of training data makes individual licensing impractical. LLMs are trained on billions of documents from countless authors. Requiring permission from every rights holder would create an insurmountable clearance burden that would effectively halt AI development. This represents precisely the kind of "transaction cost problem" that fair use doctrine was designed to address.
+
+Precedent in Search Engines and Text Mining
+Courts have consistently held that indexing and analyzing text for search engines and computational analysis constitutes fair use. In cases like Authors Guild v. Google, courts found that scanning books to create search functionality is transformative and permissible. LLM training follows this established precedent for computational analysis of text.
+
+De Minimis Impact on Individual Works
+The contribution of any single book to an LLM's overall capabilities is de minimis (minimal). Models learn from patterns across billions of documents, with no single work having significant influence on the final model. This minimal use of each individual work further supports the fair use argument.
+
+Published Works Enter Public Discourse
+When authors publish their works, they intentionally place them into public discourse. While copyright protects against certain unauthorized uses, it doesn't prevent all analytical uses of published materials. Society has a legitimate interest in analyzing and building upon cultural materials that have been deliberately placed in the public sphere.
+
+No Verbatim Reproduction in Outputs
+LLMs rarely reproduce verbatim text from training materials. They generate probabilistic outputs based on learned patterns rather than copying. The lack of memorization and verbatim reproduction further distinguishes this use from traditional copyright infringement.
+
+Compensation Through Existing Channels
+Authors have already been compensated for their works through traditional publishing channels. Requiring additional compensation for AI training would represent a new right not contemplated in copyright law. Authors are already compensated when their books are purchased for training datasets.
+
+International Precedents Support Fair Use
+Several countries have explicitly created copyright exceptions for text and data mining, recognizing the importance of these activities for research and innovation. The global legal trend is toward permitting computational analysis of text, which includes LLM training.
+
+Balanced Approach to Innovation
+A balanced approach that permits LLM training while preventing verbatim reproduction of works best serves both technological progress and authors' interests. Courts should focus on preventing direct market harm rather than establishing new licensing requirements that could stifle innovation without significantly benefiting most authors. 
